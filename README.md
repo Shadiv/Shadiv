@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Shadiv
+- 🌱 Just starting my journey. Currently learning python. 
